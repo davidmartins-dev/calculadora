@@ -1,4 +1,4 @@
-# 🧮 Calculadora Simples
+# Calculadora Simples
 
 Este projeto é uma **calculadora web** básica e funcional, desenvolvida com HTML, CSS e JavaScript puro. Ela permite realizar operações aritméticas fundamentais como adição, subtração, multiplicação e divisão, além de ter uma interface intuitiva.
 
