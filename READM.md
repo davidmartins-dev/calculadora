@@ -29,7 +29,7 @@ Para testar este projeto localmente:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/davidsilva-dev-tech/calculator.git](https://github.com/davidsilva-dev-tech/calculator.git)
+    git clone [https://github.com/davidmartins-dev/calculadora.git](https://github.com/davidmartins-dev/calcudora.git)
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
@@ -44,11 +44,11 @@ Para testar este projeto localmente:
 
 Você pode ver uma versão funcionando deste projeto aqui:
 
-[https://davidsilva-dev-tech.github.io/calculator/]
+[https://davidmartins-dev.github.io/calculadora/]
 
 ---
 
 ## Meu Contato
 
-* **GitHub:** (https://github.com/davidsilva-dev-tech/)
-* **Email:** davidsilva.dev.tech@gmail.com
+* **GitHub:** (https://github.com/davidmartins-dev/)
+* **Email:** davidmartins-dev@hotmail.com
